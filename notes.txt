@@ -1,0 +1,8 @@
+New Git cmd's i have learnt
+1- git add . (to stage new and modified files)
+2- git add -A(to stage all the files )
+3- git add -u(to stage deleted and modified files)
+4- git log --oneline(to display commit history in oneline)
+5- git log --oneline --reverse
+6- git log --oneline --graph
+7- git restore --staged file.name(to unstage the staged files)
